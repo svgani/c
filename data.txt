@@ -1,0 +1,2 @@
+apple	us	usa	bite
+nokia	cell	japan	hmd
